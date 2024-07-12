@@ -51,53 +51,25 @@ python app.py
 
 Access the application at http://localhost:5000 in your web browser.
 
+### Student Enrollment
 
-Demo
+### Face Detection and Recognition
 
+### Attendance Tracking
 
-Screenshots
-Student Enrollment
+### Attendance Reports
 
-Face Detection and Recognition
-
-Attendance Tracking
-
-Attendance Reports
-
-Video Demo
-
-Installation
-Prerequisites
-Python 3.x
-Libraries: OpenCV, NumPy, Pandas, Flask, etc. (List dependencies and installation commands)
-
-# Setup
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/attendance-system.git
-cd attendance-system
-Install dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-
-bash
-Copy code
-python app.py
-Access the application at http://localhost:5000 in your web browser.
+### Demo
+![Demo](D%20-%20Made%20with%20Clipchamp.mp4)
 
 # Usage
-Navigate to the web interface.
-Register student details and assign classes.
-Monitor real-time attendance and receive alerts for discrepancies.
-Export attendance reports for record-keeping and analysis.
-Contributing
-Fork the repository.
-Create your feature branch (git checkout -b feature/NewFeature).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/NewFeature).
-Open a pull request.
+1. Navigate to the web interface.
+2. Register student details and assign classes.
+3. Monitor real-time attendance and receive alerts for discrepancies.
+4. Export attendance reports for record-keeping and analysis.
+# Contributing
+1. Fork the repository.
+2. Create your feature branch (git checkout -b feature/NewFeature).
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature/NewFeature).
+5. Open a pull request.
