@@ -52,13 +52,14 @@ python app.py
 Access the application at http://localhost:5000 in your web browser.
 
 ### Student Enrollment
-
+![Enrollment](Screenshot%202024-05-04%20000429.png)
 ### Face Detection and Recognition
-
+![Regocnition](Screenshot%202024-03-04%20160938.png)
 ### Attendance Tracking
-
+![Tracking](Screenshot%202024-02-21%20002053.png)
 ### Attendance Reports
-
+### Frame Result 
+![Result](1.png)
 ### Demo
 ![Demo](D%20-%20Made%20with%20Clipchamp.mp4)
 
